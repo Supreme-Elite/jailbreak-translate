@@ -22,7 +22,7 @@
 
 	"catch_twin_nc"
 	{
-		"fr"		"Les prisonners se sont échapés!"
+		"fr"		"Les prisonniers se sont échappés !"
 	}
 
 	"catch_ctwin_nc"
@@ -42,12 +42,12 @@
 
 	"catch_setbywarden"
 	{
-		"fr"		"Le lancement du Jeu du Chat par un Gardien estactuellement {purple}désactivée !"
+		"fr"		"Le lancement du Jeu du Chat par un Gardien est actuellement {purple}désactivé !"
 	}
 
 	"catch_setbyadmin"
 	{
-		"fr"		"Le lancement du Jeu du Chat par un Admin est actuellement {purple}désactivée !"
+		"fr"		"Le lancement du Jeu du Chat par un Admin est actuellement {purple}désactivé !"
 	}
 
 	"catch_next"
@@ -67,7 +67,7 @@
 
 	"catch_start_nc"
 	{
-		"fr"		"Le Jeu du Chat a commencé!"
+		"fr"		"Le Jeu du Chat a commencé !"
 	}
 
 	"catch_voted"
@@ -83,12 +83,12 @@
 
 	"catch_minplayer"
 	{
-		"fr"		"Pour le Jeu du Chat, il faut au moins {purple}un Gardien et un Prisonnier"
+		"fr"		"Pour le Jeu du Chat, il faut au moins {purple}un gardien et un prisonnier"
 	}
 
 	"catch_sprint"
 	{
-		"fr"		"Tu es maintenant en train de {blue}Sprinter!"
+		"fr"		"Tu es maintenant en train de {blue}sprinter!"
 	}
 
 	"catch_sprintend"
@@ -104,22 +104,22 @@
 
 	"catch_désactivé"
 	{
-		"fr"		"Le Jeu du Chat {purple}désactivé."
+		"fr"		"Le {purple}Jeu du Chat est désactivé !"
 	}
 
 	"catch_info_title"
 	{
-		"fr"		"Le Jeu du Chat est activé !"
+		"fr"		"Le {purple}Jeu du Chat est activé !"
 	}
 
 	"catch_info_line1"
 	{
-		"fr"		"Les Gardiens doivent attraper et geler les Prisonniers."
+		"fr"		"Les gardiens doivent attraper et geler les prisonniers."
 	}
 
 	"catch_info_line2"
 	{
-		"fr"		"Les Prisonniers peuvent se libérer entre eux en se cutant !"
+		"fr"		"Les prisonniers peuvent se libérer entre eux en se cutant !"
 	}
 
 	"catch_info_line3"
@@ -129,40 +129,40 @@
 
 	"catch_info_line4"
 	{
-		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round!"
+		"fr"		"Les règles du JailBreak ne s'appliquent pas pendant ce round !"
 	}
 
 	"catch_info_line5"
 	{
-		"fr"		"La Dernière Volonté désactivé pendant ce round."
+		"fr"		"La Dernière Volonté est désactivé pendant ce round."
 	}
 
 	"catch_info_line6"
 	{
-		"fr"		"Tu dois rester dans ta cellule ! Les zones secrètes sont interdis !"
+		"fr"		"Tu dois rester dans ta cellule ! Les zones secrètes sont interdites !"
 	}
 
 	"catch_info_line7"
 	{
-		"fr"		"Les règles du Serveur s'appliquent toujours pendant ce round!"
+		"fr"		"Les règles du erveur s'appliquent toujours pendant ce round !"
 	}
 
 	"catch_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Tu dois attendre {purple}{1}{default} round supplémentaire pour un Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round supplémentaire pour un Event-Day!"
 	}
 
 	"catch_unfreeze"
 	{
 		"#format"	"{1:N},{2:N}"
-		"fr"		"Les Prisonier {purple}{1}{default} sont libres {blue}{2} !"
+		"fr"		"Les prisonniers {purple}{1}{default} sont libres {blue}{2} !"
 	}
 
 	"catch_catch"
 	{
 		"#format"	"{1:N},{2:N}"
-		"fr"		"Les Guardiens{purple}{1}{default} sont libres {blue}{2}{default} !"
+		"fr"		"Les gardiens {purple}{1}{default} sont libres {blue}{2}{default} !"
 	}
 
 	"catch_win"
@@ -194,7 +194,7 @@
 
 	"catch_now"
 	{
-		"fr"		"Un round du {purple}Jeu du Chat{default} a maintenant commencé ."
+		"fr"		"Un round du {purple}Jeu du Chat{default} a maintenant commencé."
 	}
 
 }
