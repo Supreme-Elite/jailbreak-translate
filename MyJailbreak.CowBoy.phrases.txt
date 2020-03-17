@@ -124,7 +124,7 @@
 
 	"cowboy_info_line6"
 	{
-		"fr"		"Reste dans la pièces des jails ! Les lieux secrets sont interdits."
+		"fr"		"Reste dans la pièces des jails ! Les zones secrètes sont interdites !"
 	}
 
 	"cowboy_info_line7"
