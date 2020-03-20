@@ -11,7 +11,7 @@
 	"cowboy_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer au {darkred}Cowboy!"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer au {darkred}Cowboy !"
 	}
 
 	"cowboy_rounds"
@@ -22,7 +22,7 @@
 
 	"cowboy_twin_nc"
 	{
-		"fr"		"Un Prisonnier a survécu!"
+		"fr"		"Un prisonnier a survécu !"
 	}
 
 	"cowboy_voting"
@@ -37,17 +37,17 @@
 
 	"cowboy_minplayer"
 	{
-		"fr"		"Pour le jeu du Cowboy, il faut au moins {purple}un Gardien et un Prisonnier"
+		"fr"		"Pour le jeu du Cowboy, il faut au moins {purple}un gardien et un prisonnier !"
 	}
 
 	"cowboy_setbyadmin"
 	{
-		"fr"		"Le lancement du jeu du Cowboy par un admin est {purple}désactivé!"
+		"fr"		"Le lancement du jeu du Cowboy par un admin est {purple}désactivé !"
 	}
 
 	"cowboy_ctwin_nc"
 	{
-		"fr"		"Un Gardien a survécu"
+		"fr"		"Un gardien a survécu."
 	}
 
 	"cowboy_end"
@@ -62,22 +62,22 @@
 
 	"cowboy_next_nc"
 	{
-		"fr"		"Le prochain round sera : Le jeu du Cowboy"
+		"fr"		"Le prochain round sera : Le jeu du Cowboy."
 	}
 
 	"cowboy_start"
 	{
-		"fr"		"Le jeu du {purple}Cowboy{default} a commencé!"
+		"fr"		"Le jeu du {purple}Cowboy{default} a commencé !"
 	}
 
 	"cowboy_start_nc"
 	{
-		"fr"		"Le jeu du Cowboy a commencé!"
+		"fr"		"Le jeu du Cowboy a commencé !"
 	}
 
 	"cowboy_voted"
 	{
-		"fr"		"Tu as déjà voté pour le jeu du {purple}Cowboy!"
+		"fr"		"Tu as déjà voté pour le jeu du {purple}Cowboy !"
 	}
 
 	"cowboy_progress"
@@ -88,7 +88,7 @@
 
 	"cowboy_désactivé"
 	{
-		"fr"		"Cowboy est pour le moment {purple}désactivé !"
+		"fr"		"Le jeu du Cowboy est pour le moment {purple}désactivé !"
 	}
 
 	"cowboy_timeuntilstart_nc"
@@ -99,12 +99,12 @@
 
 	"cowboy_info_line1"
 	{
-		"fr"		"Cowboy - Chaucn pour soi!"
+		"fr"		"Cowboy - Chacun pour soi !"
 	}
 
 	"cowboy_info_line2"
 	{
-		"fr"		"Duel au pistolet"
+		"fr"		"Duel au pistolet !"
 	}
 
 	"cowboy_info_line3"
@@ -114,28 +114,28 @@
 
 	"cowboy_info_line4"
 	{
-		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round !"
+		"fr"		"Les règles du JailBreak ne s'appliquent pas pendant ce round !"
 	}
 
 	"cowboy_info_line5"
 	{
-		"fr"		"La dernière volonté est désactivé durant ce round!"
+		"fr"		"La dernière volonté est désactivée durant ce round !"
 	}
 
 	"cowboy_info_line6"
 	{
-		"fr"		"Restes dans la pièces des jails ! Lieux secrets interdits "
+		"fr"		"Reste dans la pièce des jails ! Les zones secrètes sont interdites !"
 	}
 
 	"cowboy_info_line7"
 	{
-		"fr"		"Ne sois pas un enculé ! "
+		"fr"		"Soit fair-play !"
 	}
 
 	"cowboy_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event-Day !"
 	}
 
 	"cowboy_name"
@@ -145,7 +145,7 @@
 
 	"cowboy_info_title"
 	{
-		"fr"		"Cowboy est maintenant actif !"
+		"fr"		"Le jeu du Cowboy est maintenant actif !"
 	}
 
 	"cowboy_now_nc"
