@@ -11,7 +11,7 @@
 	"catch_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requi(s) pour le {darkred} Jeu du Chat!"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requi(s) pour le {darkred} jeu du Chat !"
 	}
 
 	"catch_rounds"
@@ -22,7 +22,7 @@
 
 	"catch_twin_nc"
 	{
-		"fr"		"Les prisonners se sont échapés!"
+		"fr"		"Les prisonniers se sont échappés !"
 	}
 
 	"catch_ctwin_nc"
@@ -37,58 +37,58 @@
 
 	"catch_voting"
 	{
-		"fr"		"Voter pour le Jeu du Chat est actuellement {purple}désactivé !"
+		"fr"		"Votez pour le jeu du Chat est actuellement {purple}désactivé !"
 	}
 
 	"catch_setbywarden"
 	{
-		"fr"		"Le lancement du Jeu du Chat par un Gardien estactuellement {purple}désactivée !"
+		"fr"		"Le lancement du jeu du Chat par un gardien est actuellement {purple}désactivé !"
 	}
 
 	"catch_setbyadmin"
 	{
-		"fr"		"Le lancement du Jeu du Chat par un Admin est actuellement {purple}désactivée !"
+		"fr"		"Le lancement du jeu du Chat par un admin est actuellement {purple}désactivé !"
 	}
 
 	"catch_next"
 	{
-		"fr"		"Le round suivant sera : {purple}le Jeu du Chat."
+		"fr"		"Le round suivant sera : {purple}le jeu du Chat."
 	}
 
 	"catch_next_nc"
 	{
-		"fr"		"Le round suivant sera : le Jeu du Chat."
+		"fr"		"Le round suivant sera : le jeu du Chat."
 	}
 
 	"catch_start"
 	{
-		"fr"		"{purple}Le Jeu du Chat{default} a commencé !"
+		"fr"		"{purple}Le jeu du Chat{default} a commencé !"
 	}
 
 	"catch_start_nc"
 	{
-		"fr"		"Le Jeu du Chat a commencé!"
+		"fr"		"Le jeu du Chat a commencé !"
 	}
 
 	"catch_voted"
 	{
-		"fr"		"Tu as déjà voté pour {purple}le Jeu du Chat!"
+		"fr"		"Tu as déjà voté pour {purple}le jeu du Chat !"
 	}
 
 	"catch_progress"
 	{
 		"#format"	"{1:s}"
-		"fr"		"L'Event {darkred}{1} {default}est {purple}déjà en cours!"
+		"fr"		"L'Event {darkred}{1} {default}est {purple}déjà en cours !"
 	}
 
 	"catch_minplayer"
 	{
-		"fr"		"Pour le Jeu du Chat, il faut au moins {purple}un Gardien et un Prisonnier"
+		"fr"		"Pour le jeu du Chat, il faut au moins {purple}un gardien et un prisonnier !"
 	}
 
 	"catch_sprint"
 	{
-		"fr"		"Tu es maintenant en train de {blue}Sprinter!"
+		"fr"		"Tu es maintenant en train de {blue}sprinter !"
 	}
 
 	"catch_sprintend"
@@ -104,22 +104,22 @@
 
 	"catch_désactivé"
 	{
-		"fr"		"Le Jeu du Chat {purple}désactivé."
+		"fr"		"Le {purple}jeu du Chat est désactivé !"
 	}
 
 	"catch_info_title"
 	{
-		"fr"		"Le Jeu du Chat est activé !"
+		"fr"		"Le {purple}jeu du Chat est activé !"
 	}
 
 	"catch_info_line1"
 	{
-		"fr"		"Les Gardiens doivent attraper et geler les Prisonniers."
+		"fr"		"Les gardiens doivent attraper et geler les prisonniers."
 	}
 
 	"catch_info_line2"
 	{
-		"fr"		"Les Prisonniers peuvent se libérer entre eux en se cutant !"
+		"fr"		"Les prisonniers peuvent se libérer entre eux en se cutant !"
 	}
 
 	"catch_info_line3"
@@ -129,40 +129,40 @@
 
 	"catch_info_line4"
 	{
-		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round!"
+		"fr"		"Les règles du JailBreak ne s'appliquent pas pendant ce round !"
 	}
 
 	"catch_info_line5"
 	{
-		"fr"		"La Dernière Volonté désactivé pendant ce round."
+		"fr"		"La Dernière Volonté est désactivé pendant ce round."
 	}
 
 	"catch_info_line6"
 	{
-		"fr"		"Tu dois rester dans ta cellule ! Les zones secrètes sont interdis !"
+		"fr"		"Tu dois rester dans ta cellule ! Les zones secrètes sont interdites !"
 	}
 
 	"catch_info_line7"
 	{
-		"fr"		"Les règles du Serveur s'appliquent toujours pendant ce round!"
+		"fr"		"Les règles du serveur s'appliquent toujours pendant ce round !"
 	}
 
 	"catch_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Tu dois attendre {purple}{1}{default} round supplémentaire pour un Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round supplémentaire pour un Event-Day !"
 	}
 
 	"catch_unfreeze"
 	{
 		"#format"	"{1:N},{2:N}"
-		"fr"		"Les Prisonier {purple}{1}{default} sont libres {blue}{2} !"
+		"fr"		"Les prisonniers {purple}{1}{default} sont libres {blue}{2} !"
 	}
 
 	"catch_catch"
 	{
 		"#format"	"{1:N},{2:N}"
-		"fr"		"Les Guardiens{purple}{1}{default} sont libres {blue}{2}{default} !"
+		"fr"		"Les gardiens {purple}{1}{default} sont libres {blue}{2}{default} !"
 	}
 
 	"catch_win"
@@ -172,7 +172,7 @@
 
 	"catch_name"
 	{
-		"fr"		"Le Jeu du Chat"
+		"fr"		"Le jeu du Chat"
 	}
 
 	"catch_timetounfreeze_nc"
@@ -189,12 +189,12 @@
 
 	"catch_now_nc"
 	{
-		"fr"		"Un round du Jeu du Chat a commencé."
+		"fr"		"Un round du jeu du Chat a commencé."
 	}
 
 	"catch_now"
 	{
-		"fr"		"Un round du {purple}Jeu du Chat{default} a maintenant commencé ."
+		"fr"		"Un round du {purple}jeu du Chat{default} a maintenant commencé."
 	}
 
 }
