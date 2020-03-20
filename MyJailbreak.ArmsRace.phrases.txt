@@ -11,53 +11,53 @@
 	"armsrace_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requi(s) pour jouer au{darkred}Gun Game."
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requi(s) pour jouer au{darkred}Gun-Game."
 	}
 
 	"armsrace_voting"
 	{
-		"fr"		"Le vote pour le Gun Game est{purple}désactivé!"
+		"fr"		"Le vote pour le Gun-Game est{purple}désactivé !"
 	}
 
 	"armsrace_setbywarden"
 	{
-		"fr"		"Le lancement du Gun Game par un Gardien est {purple}désactivée !"
+		"fr"		"Le lancement du Gun-Game par un gardien est {purple}désactivée !"
 	}
 
 	"armsrace_setbyadmin"
 	{
-		"fr"		"Le lancement du Gun Game par un Admin est {purple}désactivée !"
+		"fr"		"Le lancement du Gun-Game par un Admin est {purple}désactivée !"
 	}
 
 	"armsrace_youwon"
 	{
-		"fr"		"{purple}Tu as GAGNÉ{default} le Gun Game !"
+		"fr"		"{purple}Tu as gagné{default} le Gun-Game !"
 	}
 
 	"armsrace_winner"
 	{
 		"#format"	"{1:N}"
-		"fr"		"{purple}{1}{default} a gagné le Gun Game !"
+		"fr"		"{purple}{1}{default} a gagné le Gun-Game !"
 	}
 
 	"armsrace_minplayer"
 	{
-		"fr"		"Pour lancer le Gun Game il faut au moins {purple}un Gardien et un Prisonnier !"
+		"fr"		"Pour lancer le Gun-Game il faut au moins {purple}un gardien et un prisonnier !"
 	}
 
 	"armsrace_end"
 	{
-		"fr"		"{purple}Le Gun Game{default} est terminé !"
+		"fr"		"{purple}Le Gun-Game{default} est terminé !"
 	}
 
 	"armsrace_next"
 	{
-		"fr"		"Le prochain round sera un : {purple}Gun Game."
+		"fr"		"Le prochain round sera un : {purple}Gun-Game."
 	}
 
 	"armsrace_next_nc"
 	{
-		"fr"		"Le prochain round sera un : Gun Game."
+		"fr"		"Le prochain round sera un : Gun-Game."
 	}
 
 	"armsrace_rounds"
@@ -68,64 +68,64 @@
 
 	"armsrace_start"
 	{
-		"fr"		"{purple}Le Gun Game{default} a commencé!"
+		"fr"		"{purple}Le Gun-Game{default} a commencé !"
 	}
 
 	"armsrace_start_nc"
 	{
-		"fr"		"Le Gun Game a commencé !"
+		"fr"		"Le Gun-Game a commencé !"
 	}
 
 	"armsrace_voted"
 	{
-		"fr"		"Tu as déjà voté pour le {purple}Game Gun !"
+		"fr"		"Tu as déjà voté pour le {purple}Game-Gun !"
 	}
 
 	"armsrace_progress"
 	{
 		"#format"	"{1:s}"
-		"fr"		"L'évent {darkred}{1} {default}est {purple} déjà en cours!"
+		"fr"		"L'évent {darkred}{1} {default}est {purple} déjà en cours !"
 	}
 
 	"armsrace_disabled"
 	{
-		"fr"		"Le Gun Game est {purple}désactivé!"
+		"fr"		"Le Gun-Game est {purple}désactivé !"
 	}
 
 	"armsrace_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"fr"		"{1} secondes avant l'activation des dégats"
+		"fr"		"{1} secondes avant l'activation des dégâts !"
 	}
 
 	"armsrace_info_title"
 	{
-		"fr"		"Le Gun Game est maintenant activé !"
+		"fr"		"Le Gun-Game est maintenant activé !"
 	}
 
 	"armsrace_info_line1"
 	{
-		"fr"		"Ne sois pas surpris si tu es dans l'armurie!"
+		"fr"		"Ne soit pas surpris si tu es dans l'armurerie !"
 	}
 
 	"armsrace_info_line2"
 	{
-		"fr"		"Gun Game - Joueur contre Joueur- Le premier à atteindre le couteau doré gagne !"
+		"fr"		"Gun-Game - Joueur contre Joueur - Le premier à atteindre le couteau doré gagne !"
 	}
 
 	"armsrace_info_line3"
 	{
-		"fr"		"Enfuies-toi pendant la phrase d'invincibilité "
+		"fr"		"Enfuis-toi pendant la phase d'invincibilité !"
 	}
 
 	"armsrace_info_line4"
 	{
-		"fr"		"Aucune règle du Jail Break ne s'applique pendant ce round !"
+		"fr"		"Aucune règle du JailBreak ne s'applique pendant ce round !"
 	}
 
 	"armsrace_info_line5"
 	{
-		"fr"		"La Dérnière Volontée est désactivée pour ce round !"
+		"fr"		"La Dernière Volontée est désactivée pour ce round !"
 	}
 
 	"armsrace_info_line6"
@@ -135,60 +135,60 @@
 
 	"armsrace_info_line7"
 	{
-		"fr"		"Ne sois pas un enculé !"
+		"fr"		"Soit fair-play !"
 	}
 
 	"RoundOne"
 	{
-		"fr"		"Round 1 sur 3"
+		"fr"		"Round 1 sur 3 !"
 	}
 
 	"RoundTwo"
 	{
-		"fr"		"Round 2 sur 3"
+		"fr"		"Round 2 sur 3 !"
 	}
 
 	"RoundThree"
 	{
-		"fr"		"C'est le dernier round du Gun Game!"
+		"fr"		"C'est le dernier round du Gun-Game !"
 	}
 
 	"armsrace_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Tu dois attendre {purple}{1}{default} round(s) de plus pour un Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) de plus pour un Event-Day!"
 	}
 
 	"armsrace_name"
 	{
-		"fr"		"Gun Game"
+		"fr"		"Gun-Game"
 	}
 
 	"armsrace_downgraded"
 	{
-		"fr"		"Tu t'es fais cut ! Tu perds un niveau !"
+		"fr"		"Tu t'es fait cut ! Tu perds un niveau !"
 	}
 
 	"armsrace_downgrade"
 	{
 		"#format"	"{1:N}"
-		"fr"		"Tu as fais perdre {purple}{1}{default} niveau avec le couteau !"
+		"fr"		"Tu as fait perdre {purple}{1}{default} niveau avec le couteau !"
 	}
 
 	"armsrace_levelup"
 	{
 		"#format"	"{1:s}"
-		"fr"		"{purple}Niveau Superieur !{default} Tu es maintenant niveau {1}!"
+		"fr"		"{purple}Niveau Supérieur !{default} Tu es maintenant niveau {1}!"
 	}
 
 	"armsrace_now_nc"
 	{
-		"fr"		"Un round Gun Game a commencé."
+		"fr"		"Un round Gun-Game a commencé."
 	}
 
 	"armsrace_now"
 	{
-		"fr"		"Un round {purple}Gun Game{default} a commencé."
+		"fr"		"Un round {purple}Gun-Game{default} a commencé."
 	}
 
 }
