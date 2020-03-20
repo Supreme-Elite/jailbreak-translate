@@ -11,7 +11,7 @@
 	"cowboy_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer au {darkred}Cowboy!"
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer au {darkred}Cowboy !"
 	}
 
 	"cowboy_rounds"
@@ -37,7 +37,7 @@
 
 	"cowboy_minplayer"
 	{
-		"fr"		"Pour le jeu du Cowboy, il faut au moins {purple}un gardien et un prisonnier"
+		"fr"		"Pour le jeu du Cowboy, il faut au moins {purple}un gardien et un prisonnier !"
 	}
 
 	"cowboy_setbyadmin"
@@ -47,7 +47,7 @@
 
 	"cowboy_ctwin_nc"
 	{
-		"fr"		"Un Gardien a survécu."
+		"fr"		"Un gardien a survécu."
 	}
 
 	"cowboy_end"
@@ -104,7 +104,7 @@
 
 	"cowboy_info_line2"
 	{
-		"fr"		"Duel au pistolet."
+		"fr"		"Duel au pistolet !"
 	}
 
 	"cowboy_info_line3"
@@ -129,7 +129,7 @@
 
 	"cowboy_info_line7"
 	{
-		"fr"		"Ne soit pas un enculé !"
+		"fr"		"Soit fair-play !"
 	}
 
 	"cowboy_wait"
