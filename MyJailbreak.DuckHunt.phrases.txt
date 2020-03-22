@@ -1,4 +1,4 @@
-/ Exported from SourceMod Translator
+// Exported from SourceMod Translator
 // Date: 2019-08-21 13:44:16 UTC
 // Language: French (fr)
 // 
