@@ -11,7 +11,7 @@
 	"dealdamage_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{purple}{2}{default}a voté. {purple}{1}{default} vote(s) requis pour jouer à {darkred}Carnage."
+		"fr"		"{purple}{2}{default}a voté. {purple}{1}{default} vote(s) requis pour lancer le mode {darkred}Carnage."
 	}
 
 	"dealdamage_rounds"
@@ -23,48 +23,48 @@
 	"dealdamage_twin_nc"
 	{
 		"#format"	"{1:i}"
-		"fr"		"L'EQUIPE ROUGE gagne avec {1} dégats !"
+		"fr"		"L'équipe ROUGE gagne avec {1} dégats !"
 	}
 
 	"dealdamage_voting"
 	{
-		"fr"		"Voter pour le Carnage {purple}désactivé"
+		"fr"		"Vote pour le mode Carnage {purple}désactivé."
 	}
 
 	"dealdamage_setbywarden"
 	{
-		"fr"		"Le lancement du Carnage par un Gardien est {purple}désactivé !"
+		"fr"		"Le lancement du mode Carnage par un gardien est {purple}désactivé !"
 	}
 
 	"dealdamage_setbyadmin"
 	{
-		"fr"		"Le lancement du Carnage par un admin est {purple}désactivé !"
+		"fr"		"Le lancement du mode Carnage par un admin est {purple}désactivé !"
 	}
 
 	"dealdamage_ctwin_nc"
 	{
 		"#format"	"{1:i}"
-		"fr"		"L'EQUIPE BLEU gagne avec {1} dégats !"
+		"fr"		"L'équipe BLEU gagne avec {1} dégats !"
 	}
 
 	"dealdamage_end"
 	{
-		"fr"		"{purple}Carnage{default} est terminé !"
+		"fr"		"Le mode {purple}Carnage{default} est terminé !"
 	}
 
 	"dealdamage_next"
 	{
-		"fr"		"Le prochain round sera : {purple}Carnage."
+		"fr"		"Le prochain round sera le mode : {purple}Carnage."
 	}
 
 	"dealdamage_next_nc"
 	{
-		"fr"		"Le prochain round sera : Carnage."
+		"fr"		"Le prochain round sera un round : Carnage."
 	}
 
 	"dealdamage_start"
 	{
-		"fr"		"{purple}Carnage{default} a commencé !"
+		"fr"		"Le mode {purple}Carnage{default} a commencé !"
 	}
 
 	"dealdamage_now_nc"
@@ -79,12 +79,12 @@
 
 	"dealdamage_start_nc"
 	{
-		"fr"		"Carnage a maintenant commencé !"
+		"fr"		"Le mode Carnage a maintenant commencé !"
 	}
 
 	"dealdamage_voted"
 	{
-		"fr"		"Tu as déjà voté pour {purple}Deal Carnage!"
+		"fr"		"Tu as déjà voté pour le mode {purple}Carnage!"
 	}
 
 	"dealdamage_progress"
@@ -95,64 +95,64 @@
 
 	"dealdamage_désactivé"
 	{
-		"fr"		"Carnage est actuellement {purple}désactivé !"
+		"fr"		"Le mode Carnage est actuellement {purple}désactivé !"
 	}
 
 	"dealdamage_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"fr"		"{1} seconde(s) avant le lancement du round!"
+		"fr"		"{1} seconde(s) avant le lancement du round !"
 	}
 
 	"dealdamage_info_title"
 	{
-		"fr"		"Carnage est maintenant Activé ! "
+		"fr"		"Le mode Carnage est maintenant activé ! "
 	}
 
 	"dealdamage_info_line1"
 	{
-		"fr"		"Equipe BLEU VS Equipe Rouge !"
+		"fr"		"Equipe BLEU VS Equipe ROUGE !"
 	}
 
 	"dealdamage_info_line2"
 	{
-		"fr"		"Inflige autant de dégats que possible à l'équipe adverse !"
+		"fr"		"Inflige autant de dégâts que possible à l'équipe adverse !"
 	}
 
 	"dealdamage_info_line3"
 	{
-		"fr"		"L'équipe qui inflige le plus de dégats gagne !"
+		"fr"		"L'équipe qui inflige le plus de dégâts gagne !"
 	}
 
 	"dealdamage_info_line4"
 	{
-		"fr"		"Toutes les règles du Jail Break sont innactives"
+		"fr"		"Toutes les règles du JailBreak sont inactives !"
 	}
 
 	"dealdamage_info_line5"
 	{
-		"fr"		"La Dernière Volonté est désactivée pendant ce round"
+		"fr"		"La Dernière Volonté est désactivée pendant ce round !"
 	}
 
 	"dealdamage_info_line6"
 	{
-		"fr"		"Tout le monde est libre d'aller où bon leur semble"
+		"fr"		"Tout le monde est libres d'aller où bon leur semble !"
 	}
 
 	"dealdamage_info_line7"
 	{
-		"fr"		"Ne sois pas un enculé !"
+		"fr"		"Soit fair-play !"
 	}
 
 	"dealdamage_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event-Day!"
 	}
 
 	"dealdamage_result"
 	{
-		"fr"		"Résultat du Carnage :"
+		"fr"		"Résultat du mode Carnage :"
 	}
 
 	"dealdamage_total"
@@ -170,25 +170,25 @@
 	"dealdamage_ct"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Dommage Bleu : {1} HP"
+		"fr"		"Dommage de l'équipe BLEU : {1} HP"
 	}
 
 	"dealdamage_t"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Dommage Rouge : {1} HP"
+		"fr"		"Dommage de l'équipe ROUGE : {1} HP"
 	}
 
 	"dealdamage_bestct"
 	{
 		"#format"	"{1:N},{2:i}"
-		"fr"		"MVP Bleu : {1} Dommage: {2} HP"
+		"fr"		"MVP BLEU : {1} Dommage: {2} HP"
 	}
 
 	"dealdamage_bestt"
 	{
 		"#format"	"{1:N},{2:i}"
-		"fr"		"MVP Rouge : {1} Dommage: {2} HP"
+		"fr"		"MVP ROUGE : {1} Dommage: {2} HP"
 	}
 
 	"dealdamage_client"
@@ -199,12 +199,12 @@
 
 	"dealdamage_ctdealed"
 	{
-		"fr"		"Dommages des Bleus :"
+		"fr"		"Dommages des BLEUS :"
 	}
 
 	"dealdamage_tdealed"
 	{
-		"fr"		"Dommages des Rouges :"
+		"fr"		"Dommages des ROUGES :"
 	}
 
 	"dealdamage_clientdealed"
@@ -224,34 +224,34 @@
 
 	"dealdamage_teamblue"
 	{
-		"fr"		"Tu es dans l'équipe{blue}BLEU"
+		"fr"		"Tu es dans l'équipe {blue}BLEU !"
 	}
 
 	"dealdamage_teamred"
 	{
-		"fr"		"Tu es dans l'équipe {darkred}ROUGE"
+		"fr"		"Tu es dans l'équipe {darkred}ROUGE !"
 	}
 
 	"dealdamage_teamblue_nc"
 	{
-		"fr"		"Tu es dans l'équipe BLEU
+		"fr"		"Tu es dans l'équipe BLEU !"
 	}
 
 	"dealdamage_teamred_nc"
 	{
-		"fr"		"Tu es dans l'équipe ROUGE"
+		"fr"		"Tu es dans l'équipe ROUGE !"
 	}
 
 	"dealdamage_playerteamblue"
 	{
 		"#format"	"{1:N}"
-		"fr"		"{purple}{1}{default} est dans {blue}l'équipe BLEU"
+		"fr"		"{purple}{1}{default} est dans {blue}l'équipe BLEU !"
 	}
 
 	"dealdamage_playerteamred"
 	{
 		"#format"	"{1:N}"
-		"fr"		"{purple}{1}{default} est dans {darkred}l'équipe ROUGE"
+		"fr"		"{purple}{1}{default} est dans {darkred}l'équipe ROUGE !"
 	}
 
 	"dealdamage_blue_nc"
@@ -266,12 +266,12 @@
 
 	"dealdamage_info_blueteam"
 	{
-		"fr"		"Tu es dans l'équipe BLEU"
+		"fr"		"Tu es dans l'équipe BLEU !"
 	}
 
 	"dealdamage_info_redteam"
 	{
-		"fr"		"Tu es dans l'équipe ROUGE"
+		"fr"		"Tu es dans l'équipe ROUGE !"
 	}
 
 }
