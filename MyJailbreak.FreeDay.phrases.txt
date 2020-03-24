@@ -10,74 +10,74 @@
 
 	"freeday_end"
 	{
-		"fr"		"{purple}Quatier Libre{default} has ended."
+		"fr"		"Le {purple}Quartier Libre{default} est fini."
 	}
 
 	"freeday_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) pour avoir un {darkred}quartier libre."
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) pour avoir un {darkred}Quartier Libre."
 	}
 
 	"freeday_next"
 	{
-		"fr"		"Le tour suivant sera: {purple}quartier libre."
+		"fr"		"Le round suivant sera un : {purple}Quartier Libre."
 	}
 
 	"freeday_next_nc"
 	{
-		"fr"		"Le tour suivant sera: Quartier Libre."
+		"fr"		"Le round suivant sera un : Quartier Libre."
 	}
 
 	"freeday_voting"
 	{
-		"fr"		"Le vote pour le quartier libre est {purple}désactivé!"
+		"fr"		"Le vote pour le Quartier Libre est {purple}désactivé !"
 	}
 
 	"freeday_setbywarden"
 	{
-		"fr"		"Définir un quartier libre par le chef est {purple}désactivé!"
+		"fr"		"Définir un Quartier Libre par le chef est {purple}désactivé !"
 	}
 
 	"freeday_setbyadmin"
 	{
-		"fr"		"Définir un quartier libre par Admin est {purple}désactivé!"
+		"fr"		"Définir un Quartier Libre par admin est {purple}désactivé !"
 	}
 
 	"freeday_start_nc"
 	{
-		"fr"		"Le quartier libre commence!"
+		"fr"		"Le Quartier Libre commence !"
 	}
 
 	"freeday_start"
 	{
-		"fr"		"{purple}Le quartier libre{default} a commencé!"
+		"fr"		"{purple}Le Quartier Libre{default} a commencé !"
 	}
 
 	"freeday_voted"
 	{
-		"fr"		"Vous avez déjà voté pour {purple}quartier libre!"
+		"fr"		"Vous avez déjà voté pour le {purple}Quartier Libre !"
 	}
 
 	"freeday_progress"
 	{
 		"#format"	"{1:s}"
-		"fr"		"L'événement {darkred}{1} {default}est {purple}already en cours!"
+		"fr"		"L'événement {darkred}{1} {default}est {purple}already en cours !"
 	}
 
 	"freeday_disabled"
 	{
-		"fr"		"Le quartier libre est {purple}désactivé!"
+		"fr"		"Le Quartier Libre est {purple}désactivé !"
 	}
 
 	"freeday_info_title"
 	{
-		"fr"		"C'est un quartier libre!"
+		"fr"		"C'est un Quartier Libre !"
 	}
 
 	"freeday_info_line1"
 	{
-		"fr"		"C'est un quartier libre!"
+		"fr"		"C'est un Quartier Libre !"
 	}
 
 	"freeday_info_line2"
@@ -92,28 +92,28 @@
 
 	"freeday_info_line4"
 	{
-		"fr"		"Toutes les règles habituelles du Jailbreak ne s'appliquent pas pendant ce tour!"
+		"fr"		"Toutes les règles habituelles du Jailbreak ne s'appliquent pas pendant ce round !"
 	}
 
 	"freeday_info_line5"
 	{
-		"fr"		"Les DV sont désactivées pendant ce tour!"
+		"fr"		"Les DV sont désactivées pendant ce round !"
 	}
 
 	"freeday_info_line6"
 	{
-		"fr"		"Tout le monde est autorisé à aller n'importe où sur la map!"
+		"fr"		"Tout le monde est autorisé à aller n'importe où sur la map !"
 	}
 
 	"freeday_info_line7"
 	{
-		"fr"		"Ne sois pas un idiot!"
+		"fr"		"Soit fair-play !"
 	}
 
 	"freeday_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Vous devez attendre {purple}{1}{default} plus de round pour un Event Day!"
+		"fr"		"Vous devez attendre {purple}{1}{default} plus de round pour un Event-Day !"
 	}
 
 	"freeday_name"
@@ -123,12 +123,12 @@
 
 	"freeday_now_nc"
 	{
-		"fr"		"Un quartier libre commence"
+		"fr"		"Un Quartier Libre commence !"
 	}
 
 	"freeday_now"
 	{
-		"fr"		"Maintenant un {purple}Quratier Libre{default} commence"
+		"fr"		"Maintenant un {purple}Quartier Libre{default} commence !"
 	}
 
 }
