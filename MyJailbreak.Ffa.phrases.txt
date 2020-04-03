@@ -26,37 +26,37 @@
 
 	"ffa_setbyadmin"
 	{
-		"fr"		"Le lancement de la Mélée Générale par un admin est {purple}désactivé!"
+		"fr"		"Le lancement de la Mélée Générale par un admin est {purple}désactivé !"
 	}
 
 	"ffa_ctwin_nc"
 	{
-		"fr"		"Un Gardien a survécu!"
+		"fr"		"Un gardien a survécu !"
 	}
 
 	"ffa_twin_nc"
 	{
-		"fr"		"Un Prisonnier a survécu!"
+		"fr"		"Un prisonnier a survécu !"
 	}
 
 	"ffa_minplayer"
 	{
-		"fr"		"Pour la Mélée Générale vous  devez etres au moins{purple}un Gardien, & un Prisonnier!"
+		"fr"		"Pour la Mélée Générale vous devez être au moins{purple}un gardien et un prisonnier !"
 	}
 
 	"ffa_end"
 	{
-		"fr"		"La {purple}Mélée Générale{default} est terminé."
+		"fr"		"La {purple}Mélée Générale{default} est terminée."
 	}
 
 	"ffa_next"
 	{
-		"fr"		"Le prochain round sera une {purple}Mélée Générale."
+		"fr"		"Le prochain round sera une : {purple}Mélée Générale."
 	}
 
 	"ffa_next_nc"
 	{
-		"fr"		"Le prochain round sera une Mélée Générale."
+		"fr"		"Le prochain round sera une : Mélée Générale."
 	}
 
 	"ffa_rounds"
@@ -67,17 +67,17 @@
 
 	"ffa_start"
 	{
-		"fr"		"La {purple}Mélée Générale{default} a commencée!"
+		"fr"		"La {purple}Mélée Générale{default} a commencée !"
 	}
 
 	"ffa_start_nc"
 	{
-		"fr"		"La Mélée Générale a commencée!"
+		"fr"		"La Mélée Générale a commencée !"
 	}
 
 	"ffa_voted"
 	{
-		"fr"		"Tu as déjà voté pour la {purple}Mélée Générale!"
+		"fr"		"Tu as déjà voté pour la {purple}Mélée Générale !"
 	}
 
 	"ffa_progress"
@@ -88,34 +88,34 @@
 
 	"ffa_disabled"
 	{
-		"fr"		"La Mélée Générale est pour le moment {purple}désactivée!"
+		"fr"		"La Mélée Générale est pour le moment {purple}désactivée !"
 	}
 
 	"ffa_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"fr"		"{1} seconde(s) avant que les dommages soient actifs!"
+		"fr"		"{1} seconde(s) avant que les dommages ne soient actifs !"
 	}
 
 	"ffa_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"fr"		"{1} seconde(s) avant que les dommages soient actifs!"
+		"fr"		"{1} seconde(s) avant que les dommages ne soient actifs !"
 	}
 
 	"ffa_info_title"
 	{
-		"fr"		"La Mélée Générale est désormait active!"
+		"fr"		"La Mélée Générale est désormais active !"
 	}
 
 	"ffa_info_line1"
 	{
-		"fr"		"Ne soyez pas surpris si vous spawnez dans l'Armurerie!"
+		"fr"		"Vous allez être téléportés dans l'armurerie !"
 	}
 
 	"ffa_info_line2"
 	{
-		"fr"		"Mélée Générale - Joueur VS Joueur - Le dernier en vie a gagner!"
+		"fr"		"Mélée Générale - Joueur VS Joueur - Le dernier en vie a gagné !"
 	}
 
 	"ffa_info_line3"
@@ -125,28 +125,28 @@
 
 	"ffa_info_line4"
 	{
-		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round !"
+		"fr"		"Les règles du JailBreak ne s'appliquent pas pendant ce round !"
 	}
 
 	"ffa_info_line5"
 	{
-		"fr"		"La dernière volonté est désactivé durant ce round!"
+		"fr"		"La Dernière Volonté est désactivée durant ce round !"
 	}
 
 	"ffa_info_line6"
 	{
-		"fr"		"Tout le monde est autorisé a aller n'importe où!"
+		"fr"		"Tout le monde est autorisé a aller n'importe où !"
 	}
 
 	"ffa_info_line7"
 	{
-		"fr"		"Ne sois pas un enculé !"
+		"fr"		"Soit fair-play !"
 	}
 
 	"ffa_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event-Day !"
 	}
 
 	"ffa_name"
@@ -156,12 +156,12 @@
 
 	"ffa_now_nc"
 	{
-		"fr"		"Maintenant un round Mélée Générale commence."
+		"fr"		"Un round de Mélée Générale va maintenant commencer."
 	}
 
 	"ffa_now"
 	{
-		"fr"		"Maintenant un round {purple}Mélée Générale{default} commence."
+		"fr"		"Un round de {purple}Mélée Générale{default} va maintenant commencer."
 	}
 
 }
