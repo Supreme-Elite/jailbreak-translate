@@ -11,68 +11,68 @@
 	"duckhunt_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"fr"		"Round {purple}{1}{default} sur {purple}{2}"
+		"fr"		"Round {purple}{1}{default} sur {purple}{2} !"
 	}
 
 	"duckhunt_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"fr"		"{{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer au {darkred}Duckhunt."
+		"fr"		"{{purple}{2}{default} a voté. {purple}{1}{default} vote(s) requis pour jouer au {darkred}jeu de la Chasse aux Poules."
 	}
 
 	"duckhunt_voting"
 	{
-		"fr"		"Le vote pour le jeu du Duckhunt est {purple}désactivé !"
+		"fr"		"Le vote pour le jeu de la Chasse aux Poules est {purple}désactivé !"
 	}
 
 	"duckhunt_setbywarden"
 	{
-		"fr"		"Le lancement du jeu du Duckhunt est {purple}désactivé !"
+		"fr"		"Le lancement du jeu de la Chasse aux Poules est {purple}désactivé !"
 	}
 
 	"duckhunt_setbyadmin"
 	{
-		"fr"		"Le lancement du jeu du Duckhunt par un admin est {purple}désactivé!"
+		"fr"		"Le lancement du jeu de la Chasse aux Poules par un admin est {purple}désactivé !"
 	}
 
 	"duckhunt_ctwin_nc"
 	{
-		"fr"		"Touts les canards ont été chassés!"
+		"fr"		"Toutes les Poules ont été abattues !"
 	}
 
 	"duckhunt_twin_nc"
 	{
-		"fr"		"Le chasseur a été chassé!"
+		"fr"		"Le chasseur a été chassé !"
 	}
 
 	"duckhunt_end"
 	{
-		"fr"		"Le jeu du {purple}Duckhunt{default} est terminé."
+		"fr"		"Le jeu de la {purple}Chasse aux Poules{default} est terminé."
 	}
 
 	"duckhunt_next"
 	{
-		"fr"		"Le prochain round sera : Le jeu du {purple}Duckhunt."
+		"fr"		"Le prochain round sera : Le jeu de la {purple}Chasse aux Poules."
 	}
 
 	"duckhunt_next_nc"
 	{
-		"fr"		"Le prochain round sera : Le jeu du Duckhunt."
+		"fr"		"Le prochain round sera : Le jeu de la Chasse aux Poules."
 	}
 
 	"duckhunt_start"
 	{
-		"fr"		"Le jeu du {purple}Duckhunt{default} a commencé!"
+		"fr"		"Le jeu de la {purple}Chasse aux Poules{default} a commencé !"
 	}
 
 	"duckhunt_start_nc"
 	{
-		"fr"		"Le jeu du Duckhunt a commencé!"
+		"fr"		"Le jeu de la Chasse aux Poules a commencé !"
 	}
 
 	"duckhunt_voted"
 	{
-		"fr"		"Tu as déjà voté pour le jeu du {purple}Duckhunt!"
+		"fr"		"Tu as déjà voté pour le jeu de la {purple}Chasse aux Poules !"
 	}
 
 	"duckhunt_progress"
@@ -83,12 +83,12 @@
 
 	"duckhunt_minplayer"
 	{
-		"fr"		"Pour le Duckhunt, vous devez etres au moins {purple}un Gardien, & un Prisonnier"
+		"fr"		"Pour la Chasse aux Poules, vous devez être au moins {purple}un gardien et un prisonnier !"
 	}
 
 	"duckhunt_disabled"
 	{
-		"fr"		"Duckhunt est pour le moment {purple}désactivé !"
+		"fr"		"Le jeu de la Chasse aux Poules est pour le moment {purple}désactivé !"
 	}
 
 	"duckhunt_timeuntilstart_nc"
@@ -99,63 +99,63 @@
 
 	"duckhunt_info_title"
 	{
-		"fr"		"Duckhunt est maintenant Activé!"
+		"fr"		"Le jeu de la Chasse aux Poules est maintenant activé !"
 	}
 
 	"duckhunt_info_line1"
 	{
-		"fr"		"Tire sur tout les canards!"
+		"fr"		"Tire sur toutes les Poules !"
 	}
 
 	"duckhunt_info_line2"
 	{
-		"fr"		"Les Gardiens ont des Nova!"
+		"fr"		"Les gardiens ont des fusils à pompes !"
 	}
 
 	"duckhunt_info_line3"
 	{
-		"fr"		"Les Prisionniers sont maintenant des poulets et ont des grenades. Clique Droit seulement!"
+		"fr"		"Les prisonniers sont maintenant des poules et ont des grenades. Utilisez les avec un Clique Droit !"
 	}
 
 	"duckhunt_info_line4"
 	{
-		"fr"		"Les règles du Jail Break ne s'appliquent pas pendant ce round !"
+		"fr"		"Les règles du JailBreak ne s'appliquent pas pendant ce round !"
 	}
 
 	"duckhunt_info_line5"
 	{
-		"fr"		"La dernière volonté est désactivé durant ce round!"
+		"fr"		"La Dernière Volonté est désactivée durant ce round !"
 	}
 
 	"duckhunt_info_line6"
 	{
-		"fr"		"Restes dans la pièces des jails ! Lieux secrets interdits ! "
+		"fr"		"Reste dans la pièce des jails ! Les lieux secrets sont interdits ! "
 	}
 
 	"duckhunt_info_line7"
 	{
-		"fr"		"Ne sois pas un enculé !"
+		"fr"		"Soit fair-play !"
 	}
 
 	"duckhunt_name"
 	{
-		"fr"		"Duckhunt"
+		"fr"		"Chasse aux Poules"
 	}
 
 	"duckhunt_wait"
 	{
 		"#format"	"{1:i}"
-		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event Day!"
+		"fr"		"Tu dois attendre {purple}{1}{default} round(s) supplémentaire pour un Event-Day !"
 	}
 
 	"duckhunt_now_nc"
 	{
-		"fr"		"Le round Cowboy a maintenant commencé."
+		"fr"		"Le round de la Chasse aux Poules a maintenant commencé."
 	}
 
 	"duckhunt_now"
 	{
-		"fr"		"Un round jeu du {purple}Duckhunt{default} commence !"
+		"fr"		"Un round du jeu de la {purple}Chasse aux Poules{default} commence !"
 	}
 
 }
