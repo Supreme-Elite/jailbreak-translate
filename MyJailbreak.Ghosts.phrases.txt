@@ -10,22 +10,22 @@
 
 	"ghosts_need"
 	{
-		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) nécessaire pour jouer aux {darkred}Fantome."
+		"fr"		"{purple}{2}{default} a voté. {purple}{1}{default} vote(s) nécessaire pour jouer au mode {darkred}Fantôme."
 	}
 
 	"ghosts_voting"
 	{
-		"fr"		"Le vote pour le Fantome est {purple} désactivé !"
+		"fr"		"Le vote pour le Fantôme est {purple} désactivé !"
 	}
 
 	"ghosts_setbywarden"
 	{
-		"fr"		"Le chef a désactivé le {purple} Fantome !"
+		"fr"		"Le chef a désactivé le {purple} Fantôme !"
 	}
 
 	"ghosts_setbyadmin"
 	{
-		"fr"		"Un Admin à {purple}désactivé {default} le Fantome !"
+		"fr"		"Un admin à {purple}désactivé {default} le Fantôme !"
 	}
 
 	"ghosts_ctwin_nc"
@@ -40,22 +40,22 @@
 
 	"ghosts_minplayer"
 	{
-		"fr"		"Pour jouer aux fantome, vous devez au moins être {purple} 1 gardien, & 1 Prisonnier !"
+		"fr"		"Pour jouer au mode Fantôme, vous devez au moins être {purple} 1 gardien et 1 prisonnier !"
 	}
 
 	"ghosts_end"
 	{
-		"fr"		"{purple} Fantome {default} est terminé !"
+		"fr"		"Le {purple} Fantôme {default} est terminé !"
 	}
 
 	"ghosts_next"
 	{
-		"fr"		"Le prochain round sera : {purple} Fantome."
+		"fr"		"Le prochain round sera un : {purple} Fantôme."
 	}
 
 	"ghosts_next_nc"
 	{
-		"fr"		"Le prochain round sera : Fantome."
+		"fr"		"Le prochain round sera un : Fantôme."
 	}
 
 	"ghosts_rounds"
@@ -65,27 +65,27 @@
 
 	"ghosts_start"
 	{
-		"fr"		"{purple} Le Fantome {default} a commencé !"
+		"fr"		"Le {purple} Fantôme {default} a commencé !"
 	}
 
 	"ghosts_start_nc"
 	{
-		"fr"		"Le Fantome a commencé !"
+		"fr"		"Le Fantôme a commencé !"
 	}
 
 	"ghosts_voted"
 	{
-		"fr"		"Vous avez déjà voté pour {purple} Fantome ! "
+		"fr"		"Vous avez déjà voté pour le {purple} Fantôme ! "
 	}
 
 	"ghosts_progress"
 	{
-		"fr"		"L'evenement {darkred}{1} {default}est {purple} déjà en cours !"
+		"fr"		"L'évenement {darkred}{1} {default}est {purple} déjà en cours !"
 	}
 
 	"ghosts_disabled"
 	{
-		"fr"		"Le Fantome est actuellement {purple} désactivé !"
+		"fr"		"Le Fantôme est actuellement {purple} désactivé !"
 	}
 
 	"ghosts_damage_nc"
@@ -95,12 +95,12 @@
 
 	"ghosts_info_title"
 	{
-		"fr"		"La guerre de fantome est maintenant activée !"
+		"fr"		"La guerre des Fantômes est maintenant activée !"
 	}
 
 	"ghosts_info_line1"
 	{
-		"fr"		"Vous êtes Invisible & Immortel !"
+		"fr"		"Vous êtes invisible et immortel !"
 	}
 
 	"ghosts_info_line2"
@@ -115,12 +115,12 @@
 
 	"ghosts_info_line4"
 	{
-		"fr"		"Aucune règle habituelle du JailBreak ne s'applique pendant ce roud !"
+		"fr"		"Aucune des règles habituelles du JailBreak ne s'applique pendant ce roud !"
 	}
 
 	"ghosts_info_line5"
 	{
-		"fr"		"La derniere volonté est désactivée pendant ce round !"
+		"fr"		"La Dernière Volonté est désactivée pendant ce round !"
 	}
 
 	"ghosts_info_line6"
@@ -130,17 +130,17 @@
 
 	"ghosts_info_line7"
 	{
-		"fr"		"Ne soyez pas un connard !"
+		"fr"		"Soyez fair-play !"
 	}
 
 	"ghosts_wait"
 	{
-		"fr"		"Vous devez attendre {purple}{1}{default} round pour faire un Evenement !"
+		"fr"		"Vous devez attendre {purple}{1}{default} round pour faire un Event-Day !"
 	}
 
 	"ghosts_name"
 	{
-		"fr"		"Guerre de Fantome"
+		"fr"		"Guerre de Fantôme"
 	}
 
 	"ghosts_visible"
